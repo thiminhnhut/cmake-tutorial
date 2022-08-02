@@ -1,7 +1,8 @@
-## Cấu trúc của project
+# Cấu trúc của project
 
 ```bash
 ├── CMakeLists.txt
+├── compile.sh
 ├── include
 │   └── hello.h
 ├── README.md
